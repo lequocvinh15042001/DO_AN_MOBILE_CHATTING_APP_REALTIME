@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47545406662",
+    "project_id": "chat-app-6375b",
+    "storage_bucket": "chat-app-6375b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47545406662:android:4b2192026b344adda073c7",
+        "android_client_info": {
+          "package_name": "com.example.doan_appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47545406662-427ivtnf42b45id8b4l23dn36hqb3qmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_f5DArC-cMRJDrjjxFCr9qFrxGd12jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47545406662-427ivtnf42b45id8b4l23dn36hqb3qmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
