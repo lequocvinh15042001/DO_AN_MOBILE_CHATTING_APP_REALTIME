@@ -12,8 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DoAn_AppChat">
         <activity
-            android:name=".ChatActivity"
+            android:name=".activities.UserActivity"
             android:exported="false" />
+        <activity
+            android:name=".activities.ChatActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
         <activity
             android:name=".activities.SignUpActivity"
             android:windowSoftInputMode="adjustResize" />
